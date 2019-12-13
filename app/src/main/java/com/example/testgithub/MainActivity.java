@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
         int khanh;
 
         int khanh13122019;
+        int khanhtest;
     }
 }
